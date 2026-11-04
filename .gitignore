@@ -1,0 +1,26 @@
+# ===== Исходный код: закрытый, в репозиторий НЕ попадает =====
+main.js
+preload.js
+renderer.js
+translations.js
+index.html
+style.css
+package.json
+package-lock.json
+
+# ===== Сборка и зависимости =====
+node_modules/
+dist/
+out/
+
+# ===== Локальные файлы =====
+*.local
+Thumbs.db
+desktop.ini
+.test-profile/
+
+# ===== Референс дизайна и отладочные артефакты =====
+ir.png
+screen*.png
+crop*.png
+icon-preview.png
