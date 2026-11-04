@@ -62,13 +62,6 @@ npm install
 npm start
 ```
 
-## Сборка установщика
-
-```bash
-npm run dist
-```
-
-Готовый установщик появится в папке `dist`.
 
 ## Настройка GitHub
 
