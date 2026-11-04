@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <b>Русский</b> | <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-ffe600?style=flat-square" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows-ffe600?style=flat-square" alt="platform">
   <img src="https://img.shields.io/badge/electron-33-ffe600?style=flat-square" alt="electron">
