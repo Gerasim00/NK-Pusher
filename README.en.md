@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-ffe600?style=flat-square" alt="version">
+  <img src="https://img.shields.io/badge/version-1.1.0-ffe600?style=flat-square" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows-ffe600?style=flat-square" alt="platform">
   <img src="https://img.shields.io/badge/electron-33-ffe600?style=flat-square" alt="electron">
   <img src="https://img.shields.io/badge/license-proprietary-ffe600?style=flat-square" alt="license">
@@ -65,14 +65,6 @@ Requirements: Node.js 18+ and Git.
 npm install
 npm start
 ```
-
-## Building the installer
-
-```bash
-npm run dist
-```
-
-The ready installer will appear in the `dist` folder.
 
 ## GitHub setup
 
